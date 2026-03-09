@@ -1,0 +1,6 @@
+streamlit
+joblib
+scikit_learn
+pipeline
+pandas
+numpy
